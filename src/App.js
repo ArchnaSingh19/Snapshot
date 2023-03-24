@@ -11,7 +11,7 @@ function App() {
     //method key cat/mountain/ sort per_page:40 format xml/json
     const params = {
       method: "flickr.photos.search",
-      api_key: "d5934cb189f1bf356433ef33cfcae067",
+      api_key: "ce0dcd91841d5929b585b53d173b7952",
       text: searchText,
       sort: "",
       per_page: 40,
